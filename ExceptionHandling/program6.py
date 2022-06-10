@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """A program to multiply two even numbers"""
 TOTAL = 0
 try:
